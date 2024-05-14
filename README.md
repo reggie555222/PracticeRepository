@@ -1,2 +1,2 @@
 # PracticeRepository
-This is a practice repository.
+This is Reggie Zaballa's repository.
